@@ -1,0 +1,3 @@
+C:\Users\asehrawat\source\repos\HotelApi\HotelApiTest\obj\Debug\HotelApiTest.csprojResolveAssemblyReference.cache
+C:\Users\asehrawat\source\repos\HotelApi\HotelApiTest\obj\Debug\HotelApiTest.csproj.HotelApiTest.dll.config
+C:\Users\asehrawat\source\repos\HotelApi\HotelApiTest\obj\Debug\HotelApiTest.csproj.CoreCompileInputs.cache
